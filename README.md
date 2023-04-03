@@ -1,1 +1,5 @@
-# Peer-Review
+
+Based on my project summary, it was some effort put in to create a fun and comfortable feel for my online clothing shopping website. I had the intention to add more graphic elements such as images of multiple clothing designs is a great way to engage with my customer and make them feel connected to my designer brand.
+It's also great to see that I plan to add more features to the website such as a customizable design measurement to help customers verify their sizes before buying and a system for creating an account and storing previous orders. These features can greatly enhance the user experience and make ordering more convenient for my customers.
+However, it's important to keep in mind that time limitations can impact the quality and completeness of the project. It's good that I acknowledged this and prepared future additions that I plan to make the website better.
+Overall, it seems like I have a clear vision for the clothing shopping website and have put in the effort to create a user-friendly design. With additional time and effort, I can further enhance the website and create a more seamless user experience.
